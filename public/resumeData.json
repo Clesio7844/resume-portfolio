@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "David De Castro",
+    "occupation": "Front End Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "pict.jpg",
+    "bio": "Hi there! My name is David, I'm a Junior Front End Developer ReactJS Developer. Currently I'm training at Code Nation. A compatent and commited Front End Web Development Graduate looking for a rewarding career in the Software developer. Highly focused with a comprehensive knwowledge of designig and developing the layout.",
+    "contactmessage": "Get in touch with me to be a part of Your Company",
+    "email": "daviddecastro36@gmail.com",
+    "phone": "+44 7783450578",
+    "address": {
+      "street": "13 Chapman street",
+      "city": "Bolton",
+      "state": "Great Manchester",
+      "zip": "BL1 5JX"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCwTSJqJznSKXDltXAI0KcHw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/joao-mario",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/david-l-de-castro-4b224450/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/bronodecastro/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Clesio7844",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Manchester Metropolitan University  - UK",
+        "degree": "Bachelor's Degree, Computer Network Tchnology",
+        "graduated": "July 2014",
+        "description": "Graduated with Second Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Code Nation",
+        "title": "Training ",
+        "years": "November 2020 - Present",
+        "description": "Code Nation's graduates are now employed across the tech sector and over 200 businesses have partnered with us to shape their future talent."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Html - css",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazone Clone (React JS)",
+        "category": "",
+        "image": "pict1.png",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Hulu Clone (React JS)",
+        "category": "",
+        "image": "pict2.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "pict3.png",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "pict4.png",
+        "url": ""
+      },
+      {
+        "title": "Tesla Clone (React JS)",
+        "category": "",
+        "image": "tesla.png",
+        "url": ""
+      },
+      {
+        "title": "Portfolio (React JS)",
+        "category": "",
+        "image": "portfolio.png",
+        "url": ""
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.png",
+        "url": ""
+      },
+      {
+        "title": "Tinder Clone (React JS)",
+        "category": "",
+        "image": "tinder.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
